@@ -1,0 +1,16 @@
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\bin\Debug\netstandard2.0\CIFU.deps.json
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\bin\Debug\netstandard2.0\CIFU.dll
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\bin\Debug\netstandard2.0\CIFU.pdb
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\CIFU.csprojAssemblyReference.cache
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\CIFU.AssemblyInfoInputs.cache
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\CIFU.AssemblyInfo.cs
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\CIFU.dll
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\CIFU.pdb
+C:\Users\Mycomp\source\repos\CIFU\CIFU\CIFU\obj\Debug\netstandard2.0\XamlC.stamp
