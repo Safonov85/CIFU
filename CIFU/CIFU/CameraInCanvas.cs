@@ -10,5 +10,25 @@ namespace CIFU
         {
             // constructor loading on object
         }
+
+        void CreateCamera()
+        {
+
+        }
+
+        void PutCameraOnScreen()
+        {
+
+        }
+
+        void CloseCamera()
+        {
+
+        }
+
+        void RemoveCamera()
+        {
+
+        }
     }
 }
