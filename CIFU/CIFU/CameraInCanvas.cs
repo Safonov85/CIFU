@@ -6,6 +6,13 @@ namespace CIFU
 {
     public class CameraInCanvas
     {
+
+        // private/public undecided
+        string CameraMain;
+        string Title;
+        bool CamOnScreen;
+        int AmountOfPicturesTaken;
+
         public CameraInCanvas()
         {
             // constructor loading on object
