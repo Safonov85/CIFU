@@ -6,6 +6,7 @@ namespace CIFU
 {
     public class CameraInCanvas
     {
+        // Project needs re-evaluation, shelved until further notice
 
         // private/public undecided
         string CameraMain;
